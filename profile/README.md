@@ -35,7 +35,7 @@ Ofrecemos servicios de mantenimiento de software para garantizar que tus aplicac
 
 Explora nuestro sitio web para conocer más sobre nuestros productos y servicios.
 Echa un vistazo a nuestro repositorio para encontrar los scripts de FiveM y otros proyectos disponibles.
-Contáctanos a través de [https://discord.gg/dadimarket] para consultas y solicitudes personalizadas.
+Contáctanos a través de nuestro [Discord oficial](https://discord.gg/dadimarket) para consultas y solicitudes personalizadas.
 
 ## Contribuciones
 
